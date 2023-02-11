@@ -2,6 +2,13 @@ package constants
 
 // scm 供应链系统
 const (
+
+	// 品项
+	C_SCM_ITEMS = "scm_items"
+
+	// 品项类别
+	C_SCM_CATEGORY = "scm_category"
+
 	// 供应商
 	C_SCM_SUPPLIER = "scm_supplier"
 	// 供应商资质到期
