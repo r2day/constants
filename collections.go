@@ -4,10 +4,10 @@ package constants
 const (
 
 	// 品项
-	C_SCM_ITEMS = "scm_items"
+	C_SCM_ITEMS = "scm_item"
 
 	// 品项类别
-	C_SCM_CATEGORY = "scm_category"
+	C_SCM_CATEGORY = "scm_item_category"
 
 	// 供应商
 	C_SCM_SUPPLIER = "scm_supplier"
